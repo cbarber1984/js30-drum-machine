@@ -9,3 +9,4 @@
 - The `forEach` method is useful when applying `eventListener` to multiple elements in the DOM
 - JavaScript can be used to dynamically upate CSS styling based upon user input.
 - The `data` attribute can be useful in identifying and utilizing elements
+- The tutorial placed the JavaScript directly into the HTML file. I decided to pull that out to an external .js file and link them.
