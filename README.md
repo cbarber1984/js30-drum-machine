@@ -1,5 +1,8 @@
 # JS 30 Drum Machine #
 
+## Check It Out! ##
+[JS 30 Drum Machine!](https://cbarber1984.github.io/js30-drum-machine/)
+
 ## Objective ##
 - Deepen understanding of query selectors and keydown event listeners
 
